@@ -27,8 +27,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi, welcome to my page!
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am a fourth-year PhD student at Sant'Anna School of Advanced Studies. During April-September 2024 I visited the School of Economics and Finance of Queen Mary University of London.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+From June to September 2025, I will be in Frankfurt doing a PhD internship in the Fiscal Policies Division at the European Central Bank (ECB).
+
+My main research interests lie in the field of Applied Macroeconomics, primarily in three research areas. First, I study the macroeconomic effects of aggregate demand dynamics in the medium- and long-run (hysteresis effects), placing particular attention on nonlinear transmission mechanisms. Second, I use empirical tools to examine the macroeconomic impacts of climate change, particularly how climate-induced shocks affect tail risks in GDP growth. Lastly, I am also interested in evaluating the empirical performance of macroeconomic models using time series techniques, with a focus on both macro Agent-based and DSGE models.
