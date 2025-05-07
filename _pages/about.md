@@ -1,6 +1,6 @@
 ---
-layout: About
-title: About
+layout: about
+title: about
 permalink: /
 subtitle: <a href='https://www.santannapisa.it/it/istituto-di-economia'>Sant'Anna School of Advanced Studies, Intitute of Economics</a>. 
 
