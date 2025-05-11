@@ -34,4 +34,12 @@ During April-September 2024 I visited the School of Economics and Finance of <em
 
 From June to September 2025, I will be in Frankfurt doing a <strong>PhD internship</strong> in the Fiscal Policies Division at the <em>European Central Bank (ECB)</em>.
 
-My main research interests lie in the field of <strong>Applied Macroeconomics</strong>, primarily in three research areas. First, I study the macroeconomic effects of aggregate demand dynamics in the medium- and long-run (hysteresis effects), placing particular attention on nonlinear transmission mechanisms. Second, I use empirical tools to examine the macroeconomic impacts of climate change, particularly how climate-induced shocks affect tail risks in GDP growth. Lastly, I am also interested in evaluating the empirical performance of macroeconomic models using time series techniques, with a focus on both macro Agent-based and DSGE models.
+My main research interests lie in the field of <strong>Applied Macroeconomics</strong>, primarily in three research areas. 
+
+<ul> 
+  <li>I study the macroeconomic effects of aggregate demand dynamics in the medium- and long-run (hysteresis effects), placing particular attention on nonlinear transmission mechanisms.</li>  
+  <li> I use empirical tools to examine the macroeconomic impacts of climate change, particularly how climate-induced shocks affect tail risks in GDP growth</li> 
+  <li>I am also interested in evaluating the empirical performance of macroeconomic models using time series techniques, with a focus on both macro Agent-based and DSGE models.</li> 
+</ul>
+
+
