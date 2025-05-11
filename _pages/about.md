@@ -38,9 +38,9 @@ My main research interests lie in the field of <strong>Applied Macroeconomics</s
 
 <div style="text-align: center;">
   <ul style="display: inline-block; text-align: left; transform: translateX(-2em);">
-    <li>The macroeconomic effects of aggregate demand dynamics in the medium- and long-run (hysteresis effects), with particular attention on nonlinear transmission mechanisms.</li>
-    <li>The macroeconomic impacts of climate change, particularly how climate-induced shocks affect tail risks in GDP growth.</li>
-    <li>Evaluating the empirical performance of macroeconomic models using time series techniques, with a focus on both macro Agent-based and DSGE models.</li>
+    <li>The macroeconomic effects of aggregate demand dynamics in the medium- <br> and long-run (hysteresis effects), with particular attention on nonlinear transmission mechanisms.</li>
+    <li>The macroeconomic impacts of climate change, particularly how <br> climate-induced shocks affect tail risks in GDP growth.</li>
+    <li>Evaluating the empirical performance of macroeconomic models using time series techniques, <br> with a focus on both macro Agent-based and DSGE models.</li>
   </ul>
 </div>
 
