@@ -36,8 +36,8 @@ From June to September 2025, I will be in Frankfurt doing a <strong>PhD internsh
 
 My main research interests lie in the field of <strong>Applied Macroeconomics</strong>, primarily in three research areas:
 
-<div style="margin-left: 2em;">
-  <ul>
+<div style="text-align: center;">
+  <ul style="display: inline-block; text-align: left; transform: translateX(-2em);">
     <li>The macroeconomic effects of aggregate demand dynamics in the medium- and long-run (hysteresis effects), with particular attention on nonlinear transmission mechanisms.</li>
     <li>The macroeconomic impacts of climate change, particularly how climate-induced shocks affect tail risks in GDP growth.</li>
     <li>Evaluating the empirical performance of macroeconomic models using time series techniques, with a focus on both macro Agent-based and DSGE models.</li>
