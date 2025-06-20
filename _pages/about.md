@@ -28,9 +28,9 @@ latest_posts:
 Hi, welcome to my page!
 
 I am a <strong>fourth-year PhD student</strong> at <em>Sant'Anna School of Advanced Studies</em>. 
-During April-September 2024 I visited the School of Economics and Finance of <em>Queen Mary University of London</em>.
-
 From June to September 2025, I will be in Frankfurt doing a <strong>PhD internship</strong> in the Fiscal Policies Division at the <em>European Central Bank (ECB)</em>.
+
+During April-September 2024 I visited the School of Economics and Finance of <em>Queen Mary University of London</em>.
 
 My main research interests lie in the field of <strong>Applied Macroeconomics</strong>, primarily in three research areas:
 
