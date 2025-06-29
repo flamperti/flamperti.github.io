@@ -14,7 +14,7 @@ nav_order: 6
 
 
 - **Industry Dynamics** (Master in Strategic Management; 09/2023–12/2023)  
-  *Teaching Assistant* (09/2023–12/2023)
+  *Teaching Assistant* 
    - LUISS Guido Carli, Rome
    - Prof. <a href="https://sites.google.com/site/francescalotti/" target="_blank">Francesca Lotti</a>
    
