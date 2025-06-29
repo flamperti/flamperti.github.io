@@ -13,6 +13,13 @@ nav_order: 3
 **Are Hysteresis Effects Nonlinear?** (with O. Carnevale)  
 (Draft available soon)
 
+<details>
+<summary>Abstract</summary>
+<p>
+We propose a novel approach to estimate the Euro Area output gap using dynamic factor models and large-scale datasets. This method provides more robust real-time estimates and captures cyclical fluctuations more accurately than traditional filters.
+</p>
+</details>
+
 **Climate Growth-at-Risk** (with C. Brownlees, G. Fagiolo and F. Lamperti)  
 (Draft available soon)
 
