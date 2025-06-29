@@ -12,21 +12,22 @@ nav_order: 6
    - Institute of Economics, Sant’Anna School of Advanced Studies (Pisa) 
    - Prof. <a href="https://www.santannapisa.it/en/francesco-lamperti" target="_blank">Francesco Lamperti</a>  
 
-<br>
+<div style="margin-top:4px;"></div>
+
 
 - **Industry Dynamics** (Master in Strategic Management; 09/2023–12/2023)  
   *Teaching Assistant* 
    - LUISS Guido Carli, Rome
    - Prof. <a href="https://sites.google.com/site/francescalotti/" target="_blank">Francesca Lotti</a>
 
- <br>
+<div style="margin-top:6px;"></div>
 
 - **Microeconomics** (Undergraduate - Politics: Philosophy and Economics; 09/2023–12/2023)    
   *Teaching Assistant* 
    - LUISS Guido Carli, Rome
    - Prof. <a href="https://economia.uniroma2.it/faculty/129/carbonari-lorenzo" target="_blank">Lorenzo Carbonari</a>  
 
- <br>
+<div style="margin-top:6px;"></div>
 
 - **Microeconomics and Macroeconomics** (Undergraduate - Economics; 09/2019–12/2019)  
   *Teaching Assistant*
