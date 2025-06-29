@@ -22,11 +22,12 @@ Moneta, and R. Seri)
 
 
 ### Work In Progress
+---
 
 **Reduced GDP or Stolen Time? Measuring Climate Damages as Years of Lost Growth** (with M.
 Coronese, F. Lamperti, E. Palagi, and L. Sabattini)
 
 **Short-Lived or Long-Lasting? Estimating the Persistent Effects of Climate Shocks** (with F.
 Lamperti, and G. Scalisi)
----
+
 
