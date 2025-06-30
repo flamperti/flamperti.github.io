@@ -1,5 +1,5 @@
 ---
-layout: CV
+layout: page
 permalink: /CV/
 title: CV
 nav: true
@@ -8,5 +8,3 @@ cv_pdf: CV_Di_Francesco_Damiano.pdf You can download my cv.
 toc:
   sidebar: left
 ---
-
-description
