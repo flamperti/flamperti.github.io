@@ -26,7 +26,7 @@ Our findings indicate that contractionary shocks tend to have stronger and more 
 <details>
 <summary>Abstract</summary>
 <p>
-We propose the Climate Growth-at-Risk framework, an empirical approach that quantifies the impacts of climate-related shocks on the entire forecast distribution of GDP growth. We consider two types of climate risks factors: country-specific temperature and precipitation shocks to capture gradual shifts in climate, and global temperature shocks as proxies for extreme events. We employ panel quantile local projections to examine dynamic tail risks to GDP growth. Using a global dataset covering 167 countries from 1960 to 2019, we find that local temperature and precipitation shocks have asymmetric effects along the growth distribution when conditioning on country characteristics. In rich countries, local temperature shocks increase downside risks whereas in poorer countries, they primarily reduce upside potential. Similarly, agricultural countries experience constraints in growth opportunities following precipitation shocks. Conversely, global temperature shocks not only exert larger and more persistent negative effects that than local ones but also suppress upside growth potential even in the full sample. Altogether, our findings identify climate change as an additional risk factor for macroeconomic vulnerability---one that stabilization policy must consider amid accelerating global warming.
+
 </p>
 </details>
 <br>
