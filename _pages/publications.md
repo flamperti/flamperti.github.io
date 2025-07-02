@@ -12,7 +12,7 @@ nav_order: 3
 
 ***Are Hysteresis Effects Nonlinear?*** (with O. Carnevale)  
 (Draft available soon)
-<details>
+<details> 
 <summary>Abstract</summary>
 <p>
 This paper investigates the nonlinear effects of aggregate demand dynamics over medium and long-term horizons, focusing on whether contractionary aggregate demand shocks have distinct long-lasting impacts compared to expansionary shocks (sign dependence). We begin by identifying a long-term demand shock, termed the 'hysteresis' shock, within a structural vector autoregression framework. To assess sign dependence, we employ local projections with a nonlinear transformation of the shock. This methodology is applied to a quarterly U.S. macroeconomic dataset that includes variables related to the productivity and labor market channels of hysteresis.
