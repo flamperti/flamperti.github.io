@@ -159,8 +159,6 @@ markdown: kramdown
 highlighter: rouge
 kramdown:
   input: GFM
-  html_input: unsafe        # <— allow all HTML tags through
-  parse_block_html: true    # <— make sure block-level HTML is parsed
   syntax_highlighter_opts:
     css_class: "highlight"
     span:
