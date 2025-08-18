@@ -10,7 +10,7 @@ nav_order: 3
 ### **Working Papers**
 ---
 
-***Are Hysteresis Effects nonlinear?*** (with O. Carnevale)  
+***Are Hysteresis Effects Nonlinear?*** (with O. Carnevale)  
 (Draft available soon)  
 <details> 
 <summary>Abstract</summary>
