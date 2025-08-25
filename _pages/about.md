@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://www.santannapisa.it/it/istituto-di-economia'>Sant'Anna School of Advanced Studies, Intitute of Economics</a>. 
+subtitle: <a href='https://www.santannapisa.it/it/istituto-di-economia'>Sant'Anna School of Advanced Studies, Intitute of Economics</a>.
 
 profile:
   align: left
@@ -41,4 +41,3 @@ My research interests focus on:
 I teach Macroeconomics (Master and Ph.D.), Climate Change Economics (Bachelor and Master) and Agent-based modelling (Ph.D.) at Scuola Superiore Sant'Anna.
 
 I am the recipient of an ERC Starting Grant project on Negative Emission Technologies and Sustainable Development (project FIND, GA 101117427).
-

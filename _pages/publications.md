@@ -8,10 +8,12 @@ nav_order: 3
 ---
 
 ### **Working Papers**
+
 ---
 
-***Are Hysteresis Effects Nonlinear?*** (with O. Carnevale)  
+**_Are Hysteresis Effects Nonlinear?_** (with O. Carnevale)  
 (Draft available soon)
+
 <details>
   <summary>Abstract</summary>
   <p>
@@ -22,8 +24,9 @@ nav_order: 3
 </details>
 <br>
 
-***Climate Growth-at-Risk*** (with C. Brownlees, G. Fagiolo and F. Lamperti)  
+**_Climate Growth-at-Risk_** (with C. Brownlees, G. Fagiolo and F. Lamperti)  
 (Draft available soon)
+
 <details>
   <summary>Abstract</summary>
   <p><em>Abstract forthcoming.</em></p>
@@ -31,8 +34,9 @@ nav_order: 3
 </details>
 <br>
 
-***Estimation of DSGE models by Non-Gaussian Vector Autoregressions*** (with M. Martinoli, A. Moneta, and R. Seri)  
+**_Estimation of DSGE models by Non-Gaussian Vector Autoregressions_** (with M. Martinoli, A. Moneta, and R. Seri)  
 (Draft available upon request)
+
 <details>
   <summary>Abstract</summary>
   <p>
@@ -45,9 +49,11 @@ nav_order: 3
 <p><em>* Indicates presentation by coauthor</em></p>
 
 ### **Work In Progress**
+
 ---
 
-***Reduced GDP or Stolen Time? Measuring Climate Damages as Years of Lost Growth*** (with M. Coronese, F. Lamperti, E. Palagi, and L. Sabattini)
+**_Reduced GDP or Stolen Time? Measuring Climate Damages as Years of Lost Growth_** (with M. Coronese, F. Lamperti, E. Palagi, and L. Sabattini)
+
 <details>
   <summary>Abstract</summary>
   <p><em>Abstract forthcoming.</em></p>
@@ -55,12 +61,11 @@ nav_order: 3
 </details>
 <br>
 
-***Short-Lived or Long-Lasting? Estimating the Persistent Effects of Climate Shocks*** (with F. Lamperti, and G. Scalisi)
+**_Short-Lived or Long-Lasting? Estimating the Persistent Effects of Climate Shocks_** (with F. Lamperti, and G. Scalisi)
+
 <details>
   <summary>Abstract</summary>
   <p><em>Abstract forthcoming.</em></p>
   <p><u>Presented at:</u> <em>Details forthcoming</em></p>
 </details>
 <br>
-
-
