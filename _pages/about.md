@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Contact: <a href="mailto:d.lamperti@santannapisa.it">d.difrancesco@santannapisa.it</a> </p>
+    <p>Contact: <a href="mailto:f.lamperti@santannapisa.it">f.lamperti@santannapisa.it</a> </p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
