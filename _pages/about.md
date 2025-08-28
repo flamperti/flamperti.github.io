@@ -33,7 +33,7 @@ latest_posts:
 
 I am <strong>Full Professor</strong> of Economics at the Institute of Economics and EMbeDS Department, Scuola Superiore Sant'Anna (Pisa) and a <strong>Scientist</strong> at RFF-CMCC European Institute on Economics and the Environment (EIEE, Milano).
 
-I am also <strong>Associate Editor</strong> for: <a href='https://link.springer.com/journal/40797'>Italian Economic Journal</a>, <a href='https://academic.oup.com/icc'>Industrial and Corporate Change Macro</a>, <a href='https://www.nature.com/sdata/'>Nature Scientific Data</a>; and <strong>Academic Editor</strong> for: <a href='https://journals.plos.org/climate/'>PLOS Climate</a>, <a href='https://journals.plos.org/plosone/'>PLOS One</a>.
+I serve as <strong>Associate Editor</strong> for: <a href='https://link.springer.com/journal/40797'>Italian Economic Journal</a>, <a href='https://academic.oup.com/icc'>Industrial and Corporate Change Macro</a>, <a href='https://www.nature.com/sdata/'>Nature Scientific Data</a>; and <strong>Academic Editor</strong> for: <a href='https://journals.plos.org/climate/'>PLOS Climate</a>, <a href='https://journals.plos.org/plosone/'>PLOS One</a>.
 
 My research interests focus on:
 
