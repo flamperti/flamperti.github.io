@@ -31,15 +31,22 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am Full Professor of Economics at the Institute of Economics and EMbeDS Department, Scuola Superiore Sant'Anna (Pisa) and a Scientist at RFF-CMCC European Institute on Economics and the Environment (EIEE, Milano).
+I am <strong>Full Professor</strong> of Economics at the Institute of Economics and EMbeDS Department, Scuola Superiore Sant'Anna (Pisa) and a <strong>Scientist</strong> at RFF-CMCC European Institute on Economics and the Environment (EIEE, Milano).
+
+<strong>Associate Editor</strong> for: <a href='https://link.springer.com/journal/40797'>Italian Economic Journal</a>, <a href='https://academic.oup.com/icc'>Industrial and Corporate Change Macro</a>, <a href='https://www.nature.com/sdata/'>Nature Scientific Data</a>.
+</strong>Academic Editor</strong> for: <a href='https://journals.plos.org/climate/'>PLOS Climate</a>, <a href='https://journals.plos.org/plosone/'>PLOS One</a>.
 
 My research interests focus on:
 
-- Macroeconomics
-- Climate Change
-- Agent-Based Modeling and Validation
-- Innovation and Technical Change
+<div style="margin-left: 1.5rem;">
+  <ul>
+    <li><strong>Macroeconomics</strong></li>
+    <li><strong>Climate Change</strong></li>
+    <li><strong>Agent-Based Modeling and Validation</strong></li>
+    <li><strong>Innovation and Technical Change</strong></li>
+  </ul>
+</div>
 
-I teach Macroeconomics (Master and Ph.D.), Climate Change Economics (Bachelor and Master) and Agent-based modelling (Ph.D.) at Scuola Superiore Sant'Anna.
+I teach Macroeconomics (Master and Ph.D.), Climate Change Economics (Bachelor, Master and Ph.D.) and Agent-based modelling (Ph.D.) at Scuola Superiore Sant'Anna.
 
-I am the recipient of an ERC Starting Grant project on Negative Emission Technologies and Sustainable Development (project FIND, GA 101117427).
+I am the recipient of an ERC Starting Grant project on <strong>Negative Emission Technologies and Sustainable Development</strong> (project <a href='https://find-erc.eu'>FIND</a>, GA 101117427).
