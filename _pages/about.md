@@ -37,8 +37,8 @@ I am also <strong>Associate Editor</strong> for: <a href='https://link.springer.
 
 My research interests focus on:
 
-<div style="margin-left: 3rem;">
-  <ul>
+<div style="text-align: center;">
+  <ul style="display: inline-block; text-align: left; transform: translateX(-0.1em);">
     <li><strong>Macroeconomics</strong></li>
     <li><strong>Climate Change</strong></li>
     <li><strong>Agent-Based Modeling and Validation</strong></li>
