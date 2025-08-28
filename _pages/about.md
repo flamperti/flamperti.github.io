@@ -37,7 +37,7 @@ I am also <strong>Associate Editor</strong> for: <a href='https://link.springer.
 
 My research interests focus on:
 
-<div style="text-align: center;">
+<div style="text-align: left;">
   <ul style="display: inline-block; text-align: left; transform: translateX(-0.1em);">
     <li><strong>Macroeconomics</strong></li>
     <li><strong>Climate Change</strong></li>
