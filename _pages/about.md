@@ -29,14 +29,10 @@ I am Full Professor of Economics at the Institute of Economics and EMbeDS Depart
 
 My research interests focus on:
 
-<div style="text-align: center;">
-  <ul style="display: inline-block; text-align: left; transform: translateX(-1em);">
-    <li> Macroeconomics.</li>
-    <li> Climate Change.</li>
-    <li> Agent-Based Modeling and Validation.</li>
-    <li> Innovation and Technical Change.</li>
-  </ul>
-</div>
+- Macroeconomics
+- Climate Change
+- Agent-Based Modeling and Validation
+- Innovation and Technical Change
 
 I teach Macroeconomics (Master and Ph.D.), Climate Change Economics (Bachelor and Master) and Agent-based modelling (Ph.D.) at Scuola Superiore Sant'Anna.
 
