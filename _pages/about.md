@@ -2,8 +2,14 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://www.santannapisa.it/it/istituto-di-economia'>Sant'Anna School of Advanced Studies, Intitute of Economics</a>.
-
+subtitle: >
+  <a href='https://www.santannapisa.it/it/istituto-di-economia'>
+    Sant'Anna School of Advanced Studies, Institute of Economics
+  </a><br>
+  <a href='https://www.eiee.org/'>
+    RFF-CMCC European Institute on Economics and the Environment
+  </a>
+  
 profile:
   align: left
   image: prof_pic.jpg
