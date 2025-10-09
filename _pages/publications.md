@@ -7,61 +7,125 @@ nav: true
 nav_order: 3
 ---
 
-### **Working Papers**
+### **Publications**
 
----
+**_The public use of early-stage scientific advances in carbon dioxide removal: a science-technology-policy-media perspective_** (joint with G. Tripodi, F. Lillo, R. Mavilia, A. Mina, F. Chiaromonte)  
+DOI: https://doi.org/10.1088/1748-9326/ad7479
 
-**_Are Hysteresis Effects Nonlinear?_** (with O. Carnevale)  
-(Draft available soon)
+**_Believe me when I say green! Heterogeneous expectations and climate policy uncertainty_** (joint with E. Campiglio, R. Terranova)  
+DOI: https://doi.org/10.1016/j.jedc.2024.104900
 
-<details>
-  <summary>Abstract</summary>
-  <p>
-    This paper investigates the nonlinear effects of aggregate demand dynamics over medium and long-term horizons, focusing on whether contractionary aggregate demand shocks have distinct long-lasting impacts compared to expansionary shocks (sign dependence). We begin by identifying a long-term demand shock, termed the 'hysteresis' shock, within a structural vector autoregression framework. To assess sign dependence, we employ local projections with a nonlinear transformation of the shock. This methodology is applied to a quarterly U.S. macroeconomic dataset that includes variables related to the productivity and labor market channels of hysteresis.
-    Our findings indicate that contractionary shocks tend to have stronger and more persistent adverse effects, particularly on productivity-related outcomes, while expansionary shocks gain relevance over time for labor market variables. When disaggregating by demographic groups, we find more pronounced responses among disadvantaged workers, indicating greater sensitivity to both weak aggregate demand and high-pressure economic conditions.
-  </p>
-  <p><u>Presented at:</u> 13<sup>th</sup> Conference of the International Association for Applied Econometrics (IAAE 2025, Turin); Trans-Atlantic Doctoral Conference (TADC) at the London Business School (2025)*; 3<sup>rd</sup> UEA Time Series Workshop (2025); Junior Milan Time Series Workshop (2025); 17<sup>th</sup> UniTO-Collegio Carlo Alberto Ph.D. Workshop in Economics (2025)*.</p>
-</details>
-<br>
+**_Modelling induced innovation for the low-carbon energy transition: a menu of options_** (joint with R. Pasqualino, Ben Hinder, Y. Melekh, L. Anadon Diaz, C. Penasco, S. Kolesnikov, S. Hafner, S. Sharpe, P. Barbrook-Johnson, F. Senra De Moura, T. M. Lenton, M. Grubb)  
+DOI: https://doi.org/10.1088/1748-9326/ad4c79
 
-**_Climate Growth-at-Risk_** (with C. Brownlees, G. Fagiolo and F. Lamperti)  
-(Draft available soon)
+**_Energy efficiency policies in an agent-based macroeconomic model_** (joint with M. Amendola, A. Roventini, A. Sapio)  
+DOI: https://doi.org/10.1016/j.strueco.2023.10.003
 
-<details>
-  <summary>Abstract</summary>
-  <p><em>Abstract forthcoming.</em></p>
-  <p><u>Presented at:</u> Bank of England internal seminar (2025); University of Pisa (2025)*; Workshop on Macroeconomics and Innovation for the Green Transition (2025, Salerno); 18<sup>th</sup> International Conference on Computational and Financial Econometrics (CFE 2024, London); University of Florence (2024)*; 12<sup>th</sup> Annual Conference of the Italian Association of Environmental and Resource Economists (IAERE 2024, Pescara); 29<sup>th</sup> Annual Conference of the European Association of Environmental and Resource Economists (EAERE 2024, Leuven); Econometric Models of Climate Change (EMCC 2024, Cambridge); 4<sup>th</sup> Sailing the Macro Workshop (2024, Ortigia).</p>
-</details>
-<br>
+**_Driving sustainability transitions through financial tipping points_** (joint with N. Ameli, H. Chenet, M. Falkenberg, S. Kothari, J. Rickman)  
+DOI: https://doi.org/10.5194/egusphere-2023-1750
 
-**_Estimation of DSGE models by Non-Gaussian Vector Autoregressions_** (with M. Martinoli, A. Moneta, and R. Seri)  
-(Draft available upon request)
+**_AgriLOVE: agriculture, land-use and technical change in an evolutionary, agent-based model_** (joint with M. Coronese, M. Occelli, A. Roventini)  
+DOI: https://doi.org/10.1016/j.ecolecon.2023.107756
 
-<details>
-  <summary>Abstract</summary>
-  <p>
-    We propose a new impulse response matching procedure for estimating the parameters of a dynamic stochastic general equilibrium (DSGE) model from observed macroeconomic time series. Our estimator hinges on an indirect inference approach in which the auxiliary model is a structural vector autoregressive (SVAR) model. The SVAR model is identified using independent component analysis. A specificity of our approach is that, by using a minimum distance index, we exploit the non-Gaussianity of the observed data, but we allow the model-simulated data to be Gaussian. We derive the asymptotic properties of the estimator and we conduct a Monte Carlo simulation to study the performance of the proposed procedure. Finally, we present an application to a simple New Keynesian DSGE model.
-  </p>
-  <p><u>Presented at:</u> 35<sup>th</sup> EC<sup>2</sup> Conference; 12<sup>th</sup> Conference of the International Association for Applied Econometrics (IAAE 2024, Tessaloniki)*; 8<sup>th</sup> RCEA Time Series Econometrics Workshop (2025, London)*; 17<sup>th</sup> International Conference on Computational and Financial Econometrics (CFE 2023, Berlin); Italian Congress of Econometrics and Empirical Economics (ICEEE 2023).</p>
-</details>
-<br>
+**_Mission-oriented policies and the “Entrepreneurial State” at work: An agent-based exploration_** (joint with G. Dosi, M. Mazzucato, M. Napoletano, A. Roventini)  
+DOI: https://doi.org/10.1016/j.jedc.2023.104650
 
-<p><em>* Indicates presentation by coauthor</em></p>
+**_On the employment and health impact of the COVID-19 shock on Italian regions: a value chain approach_** (joint with T. Ferraresi, L. Ghezzi, F. Vanni, A. Caiani, M. Guerini, A. Roventini)  
+DOI: https://doi.org/10.1080/00343404.2023.2189508
 
-### **Work In Progress**
+**_A regional input-output model of the COVID-19 crisis in Italy: decomposing demand and supply factors_** (joint with S. Reissl, A. Caiani, T. Ferraresi, L. Ghezzi)  
+DOI: https://doi.org/10.1080/09535314.2023.2213394
 
----
+**_Climate change and the nonlinear impact of precipitation anomalies on income inequality_** (joint with E. Palagi, M. Coronese, A. Roventini)  
+DOI: https://doi.org/10.1073/pnas.2203595119
 
-**_Reduced GDP or Stolen Time? Measuring Climate Damages as Years of Lost Growth_** (with M. Coronese, F. Lamperti, E. Palagi, and L. Sabattini)
+**_Beyond climate economics orthodoxy: impacts and policies in the agent-based integrated-assessment DSK model_** (joint with A. Roventini)  
+DOI: https://doi.org/10.4337/ejeep.2022.0096
 
-<details>
-  <summary>Abstract</summary>
-  <p><em>Abstract forthcoming.</em></p>
-  <p><u>Presented at:</u> 13<sup>th</sup> Annual Conference of the Italian Association of Environmental and Resource Economists (IAERE 2025, Rome).</p>
-</details>
-<br>
+**_Automated and distributed statistical analysis of economic agent-based models_** (joint with A. Vandin, D. Giachini, F. Chiaromonte)  
+DOI: https://doi.org/10.1016/j.jedc.2022.104458
 
-**_Short-Lived or Long-Lasting? Estimating the Persistent Effects of Climate Shocks_** (with F. Lamperti, and G. Scalisi)
+**_Assessing the economic effects of lockdowns in Italy: a dynamic input-output approach_** (joint with S. Reissl, A. Caiani, M. Guerini, F. Vanni, G. Fagiolo, A. Roventini)  
+DOI: https://doi.org/10.1093/icc/dtac003
+
+**_Unconventional monetary policies in an agent-based model with mark-to-market standards_** (joint with M. Guerini, M. Napoletano, A. Roventini, T. Treibich)  
+DOI: https://doi.org/10.1007/s43253-022-00065-8
+
+**_Three green financial policies to address climate risks_** (joint with V. Bosetti, A. Roventini, M. Tavoni, T. Treibich)  
+DOI: https://doi.org/10.1016/j.jfs.2021.100875
+
+**_Reply to Geiger and Stomper: On capital intensity and observed increases in the economic damages of extreme natural disasters_** (joint with M. Coronese, K. Keller, F. Chiaromonte, A. Roventini)  
+DOI: https://doi.org/10.1073/pnas.1922722117
+
+**_Climate change and green transitions in an agent-based integrated assessment model_** (joint with G. Dosi, M. Napoletano, A. Roventini, A. Sapio)  
+DOI: https://doi.org/10.1016/j.techfore.2019.119806
+
+**_The green transition: public policy, finance and the role of the State_** (joint with M. Mazzucato, A. Roventini, G. Semieniuk)  
+DOI: https://doi.org/10.3790/vjh.88.2.73
+
+**_The public costs of climate-induced financial instability_** (joint with V. Bosetti, A. Roventini, M. Tavoni)  
+DOI: https://doi.org/10.1038/s41558-019-0607-5
+
+**_Evidence for sharp increase in the economic damages of extreme natural disasters_** (joint with M. Coronese, K. Keller, F. Chiaromonte, A. Roventini)  
+DOI: https://doi.org/10.1073/pnas.1907826116
+
+**_Do science parks sustain or trigger innovation? Empirical evidence from Italy_** (joint with N. Corrocher, R. Mavilia)  
+DOI: https://doi.org/10.1016/j.techfore.2019.07.005
+
+**_Does the position in the inter-sectoral knowledge space affect the international competitiveness of industries?_** (joint with F. Malerba, R. Mavilia, G. Tripodi)  
+DOI: https://doi.org/10.1080/10438599.2019.1633113
+
+**_Green transitions and the prevention of environmental disasters: market-based vs. command-and-control policies_** (joint with M. Napoletano, A. Roventini)  
+DOI: https://doi.org/10.1017/S1365100518001001
+
+**_Unconventional Monetary Policy in the USA and in Europe_** (joint with M. Guerini, A. Mazzocchetti)  
+DOI: https://doi.org/10.1007/978-3-030-18103-1_3
+
+**_Validation of agent-based models in economics and finance_** (joint with G. Fagiolo, M. Guerini, A. Moneta, A. Roventini)  
+DOI: https://doi.org/10.1007/978-3-319-70766-2_31
+
+**_Towards agent-based integrated assessment models: examples, challenges, and future developments_** (joint with A. Mandel, M. Napoletano, A. Sapio, A. Roventini, T. Balint, I. Khorenzhenko)  
+DOI: https://doi.org/10.1007/s10113-018-1287-9
+
+**_Climate Risks, Economics and Finance: Insights from Complex Systems_** (joint with I. Monasterolo, A. Roventini)  
+DOI: https://doi.org/10.1007/978-3-030-00725-6_6
+
+**_Faraway, so close: coupled climate and economic dynamics in an agent-based integrated assessment model_** (joint with G. Dosi, M. Napoletano, A. Roventini, A. Sapio)  
+DOI: https://doi.org/10.1016/j.ecolecon.2018.03.023
+
+**_Agent-based model calibration using machine learning surrogates_** (joint with A. Roventini, A. Sani)  
+DOI: https://doi.org/10.1016/j.jedc.2018.03.011
+
+**_Empirical validation of simulated models through the GSL-div: an illustrative application_**  
+DOI: https://doi.org/10.1007/s11403-017-0206-3
+
+**_Positive tipping points in a rapidly warming world_** (joint with J. D. Tàbara, N. Frantzeskaki, K. Hölscher, S. Pedde, K. Kok, J. H. Christensen, J. Jager, P. Berry)  
+DOI: https://doi.org/10.1016/j.cosust.2018.01.012
+
+**_Going up and down: Rethinking the empirics of growth in the developing and newly industrialized world_** (joint with C. E. Mattei)  
+DOI: https://doi.org/10.1007/s00191-018-0551-y
+
+**_Unconventional monetary policy: between the past and future of monetary economics_** (joint with M. Guerini, A. Mazzocchetti)  
+DOI: https://doi.org/10.4337/ejeep.2018.0036
+
+**_An information theoretic criterion for empirical validation of simulation models_**  
+DOI: https://doi.org/10.1016/j.ecosta.2017.01.006
+
+**_Complexity and the economics of climate change: a survey and a look forward_** (joint with T. Balint, A. Mandel, M. Napoletano, A. Roventini, A. Sapio)  
+DOI: https://doi.org/10.1016/j.ecolecon.2017.03.032
+
+**_The role of Science Parks: a puzzle of growth, innovation and R&D investments_** (joint with R. Mavilia, S. Castellini)  
+DOI: https://doi.org/10.1007/s10961-015-9455-2
+
+**_Looking for best performers: a pilot study towards the evaluation of science parks_** (joint with M. Ferrara, R. Mavilia)  
+DOI: https://doi.org/10.1007/s11192-015-1804-2
+
+**_Persistence of innovation and knowledge flows in Africa: an empirical investigation_** (joint with R. Mavilia, M. Giometti)  
+DOI: https://doi.org/10.1080/2157930X.2016.1196547
+
+**_The impact of technopoles and science parks on the regional and local innovation systems_** (joint with M. Ferrara, R. Mavilia)  
+DOI: https://doi.org/10.14505/despag.2014.ch3
+
 
 <details>
   <summary>Abstract</summary>
