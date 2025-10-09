@@ -125,11 +125,3 @@ DOI: https://doi.org/10.1080/2157930X.2016.1196547
 
 **_The impact of technopoles and science parks on the regional and local innovation systems_** (joint with M. Ferrara, R. Mavilia)  
 DOI: https://doi.org/10.14505/despag.2014.ch3
-
-
-<details>
-  <summary>Abstract</summary>
-  <p><em>Abstract forthcoming.</em></p>
-  <p><u>Presented at:</u> <em>Details forthcoming</em></p>
-</details>
-<br>
