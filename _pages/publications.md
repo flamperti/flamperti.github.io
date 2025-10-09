@@ -11,6 +11,8 @@ nav_order: 3
 
 **_The public use of early-stage scientific advances in carbon dioxide removal: a science-technology-policy-media perspective_** (joint with G. Tripodi, F. Lillo, R. Mavilia, A. Mina, F. Chiaromonte)  
 DOI: https://doi.org/10.1088/1748-9326/ad7479
+DOI: <https://doi.org/10.1088/1748-9326/ad7479>
+
 
 **_Believe me when I say green! Heterogeneous expectations and climate policy uncertainty_** (joint with E. Campiglio, R. Terranova)  
 DOI: https://doi.org/10.1016/j.jedc.2024.104900
