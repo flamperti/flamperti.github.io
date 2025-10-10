@@ -459,21 +459,14 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%64%61%6D%69%61%6E%6F.%64%69%66%72%61%6E%63%65%73%63%6F@%73%61%6E%74%61%6E%6E%61%70%69%73%61.%69%74", "_blank");
+          window.open("mailto:%66%72%61%6E%63%65%73%63%6F.%6C%61%6D%70%65%72%74%69@%73%61%6E%74%61%6E%6E%61%70%69%73%61.%69%74", "_blank");
         },
       },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/damiano-di-francesco-191ba91a9", "_blank");
-        },
-      },{
-        id: 'social-x',
-        title: 'X',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://twitter.com/Damiano_Difra", "_blank");
+          window.open("https://www.linkedin.com/in/francesco-lamperti-5705b0348", "_blank");
         },
       },{
       id: 'light-theme',
