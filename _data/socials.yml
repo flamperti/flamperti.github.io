@@ -7,7 +7,7 @@
 # bluesky_url: # your bluesky URL
 # dblp_url: # your DBLP profile url
 # discord_id: # your discord id (18-digit unique numerical identifier)
-email: damiano.difrancesco@santannapisa.it # your email address
+email: francesco.lamperti@santannapisa.it # your email address
 # facebook_id: # your facebook id
 # flickr_id: # your flickr id
 # github_username: # your GitHub user name
@@ -20,7 +20,7 @@ email: damiano.difrancesco@santannapisa.it # your email address
 # lastfm_id: # your lastfm id
 # lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 # leetcode_id: # your LeetCode id
-linkedin_username: damiano-di-francesco-191ba91a9 # your LinkedIn user name
+linkedin_username: francesco-lamperti-5705b0348 # your LinkedIn user name
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
 # orcid_id: # your ORCID ID
@@ -42,7 +42,7 @@ linkedin_username: damiano-di-francesco-191ba91a9 # your LinkedIn user name
 # wikidata_id: # your wikidata id
 # wikipedia_id: # your wikipedia id (Case sensitive)
 # work_url: # work page URL
-x_username: Damiano_Difra # your X handle
+#x_username: Damiano_Difra # your X handle
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
 #custom_social: # can be any name here other than the ones already defined above
