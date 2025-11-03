@@ -6,8 +6,30 @@ description:
 nav: true
 nav_order: 3
 ---
+### **Working Papers**
+
+**_The emission-inequality nexus across stages of development_** (joint with E. Palagi, T. Perniola)
+Paper link: <https://www.lem.sssup.it/WPLem/files/2025-04.pdf>
+
+**_A complex system perspective on the economics of climate change, boundless risk, and rapid decarbonization_** (joint with G. Dosi, A. Roventini)
+Paper link: <https://www.lem.sssup.it/WPLem/files/2025-16.pdf>
 
 ### **Publications**
+
+**_Energy price shocks in the European Union: Macroeconomic impacts, distributional effects and policy responses_** (joint with E. Kremer, S. Reissl, L. Fierro, J. Emmerling, A. Roventini) 
+DOI: <https://doi.org/10.1016/j.eneco.2025.108979>
+
+**_The DSK stock-flow consistent agent-based integrated assessment model_** (joint with S. Reissl, L. Fierro, A. Roventini) 
+DOI: <https://doi.org/10.1016/j.ecolecon.2025.108641>
+
+**_The power of bridging decision scales: Model coupling for advanced climate policy analysis_** (joint with T. Filatova, J. Akkerman, F. Bosello, T. Chatzivasileiadis, I. Cortés Arbués, A. Ghorbani, O. Ivanova, N. Knittel, J. Kwakkel, N. Magliocca, G. Marangoni, S. Nabernegg, A. Pichler, A. Poujon, K. Safarzynska, A. Taberna, M. van Sluisveld, L. Verbeek, T. Wei)
+DOI: <https://doi.org/10.1073/pnas.2411592122>
+
+**_Tackling emissions and inequality: policy insights from an agent-based model_** (joint with G. Ravaioli, A. Roventini, T. Domingos)
+DOI: <https://doi.org/10.1016/j.jebo.2025.107188>
+
+**_Raided by the storm: How three decades of thunderstorms shaped US incomes and wages_** (joint with M. Coronese, F. Crippa, F. Chiaromonte, A. Roventini)
+DOI: <https://doi.org/10.1016/j.jeem.2024.103074>
 
 **_The public use of early-stage scientific advances in carbon dioxide removal: a science-technology-policy-media perspective_** (joint with G. Tripodi, F. Lillo, R. Mavilia, A. Mina, F. Chiaromonte)  
 DOI: <https://doi.org/10.1088/1748-9326/ad7479>
