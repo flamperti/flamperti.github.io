@@ -217,9 +217,3 @@ DOI: <https://doi.org/10.1007/s10961-015-9455-2>
 **_Looking for best performers: a pilot study towards the evaluation of science parks_** (joint with M. Ferrara, R. Mavilia)  
 *Scientometrics*  
 DOI: <https://doi.org/10.1007/s11192-015-1804-2>
-
-#### **2014**
-
-**_The impact of technopoles and science parks on the regional and local innovation systems_** (joint with M. Ferrara, R. Mavilia)  
-*Design a Pattern of Sustainable Growth: Innovation, Education, Energy and Environment (book chapter)*  
-DOI: <https://doi.org/10.14505/despag.2014.ch3>
