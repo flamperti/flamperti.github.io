@@ -8,11 +8,11 @@ nav_order: 3
 ---
 ### **Working Papers**
 
-**[_Evaporating Upside: Temperature Shocks and Macroeconomic Tail Risk_](https://drive.google.com/file/d/1dZtzZTW7IsLYilZ1bpIOOokWq-tHtMZd/view?usp=drive_link)** (joint with D. Di Francesco, C. Brownlees, G. Fagiolo)
+***[Evaporating Upside: Temperature Shocks and Macroeconomic Tail Risk](https://drive.google.com/file/d/1dZtzZTW7IsLYilZ1bpIOOokWq-tHtMZd/view?usp=drive_link)*** (joint with D. Di Francesco, C. Brownlees, G. Fagiolo)
 
-**[_The emission-inequality nexus across stages of development_](https://www.lem.sssup.it/WPLem/files/2025-04.pdf)** (joint with E. Palagi, T. Perniola)
+***[The emission-inequality nexus across stages of development](https://www.lem.sssup.it/WPLem/files/2025-04.pdf)*** (joint with E. Palagi, T. Perniola)
 
-**[_A complex system perspective on the economics of climate change, boundless risk, and rapid decarbonization_](https://www.lem.sssup.it/WPLem/files/2025-16.pdf)** (joint with G. Dosi, A. Roventini)
+***[A complex system perspective on the economics of climate change, boundless risk, and rapid decarbonization](https://www.lem.sssup.it/WPLem/files/2025-16.pdf)*** (joint with G. Dosi, A. Roventini)
 
 ### **Publications**
 
