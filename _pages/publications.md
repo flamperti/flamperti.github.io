@@ -8,13 +8,27 @@ nav_order: 3
 ---
 ### **Working Papers**
 
-***[Evaporating Upside: Temperature Shocks and Macroeconomic Tail Risk](https://drive.google.com/file/d/1dZtzZTW7IsLYilZ1bpIOOokWq-tHtMZd/view?usp=drive_link)*** (joint with D. Di Francesco, C. Brownlees, G. Fagiolo)
+***[Evaporating Upside: Temperature Shocks and Macroeconomic Tail Risk](https://drive.google.com/file/d/1dZtzZTW7IsLYilZ1bpIOOokWq-tHtMZd/view?usp=drive_link)*** (joint with D. Di Francesco, C. Brownlees, G. Fagiolo), 2026
 
-***[The emission-inequality nexus across stages of development](https://www.lem.sssup.it/WPLem/files/2025-04.pdf)*** (joint with E. Palagi, T. Perniola)
+***[The emission-inequality nexus across stages of development](https://www.lem.sssup.it/WPLem/files/2025-04.pdf)*** (joint with E. Palagi, T. Perniola), 2025
 
-***[A complex system perspective on the economics of climate change, boundless risk, and rapid decarbonization](https://www.lem.sssup.it/WPLem/files/2025-16.pdf)*** (joint with G. Dosi, A. Roventini)
+***[A complex system perspective on the economics of climate change, boundless risk, and rapid decarbonization](https://www.lem.sssup.it/WPLem/files/2025-16.pdf)*** (joint with G. Dosi, A. Roventini), 2025
 
 ### **Publications**
+
+#### **2026**
+
+**_The carbon content of billionaire wealth: composition, concentration and taxation_** (joint with K. Bua, M. Coronese, C. Marino, E. Palagi, A. Roventini)  
+*Fiscal Studies*  
+DOI: <https://doi.org/10.1111/1475-5890.70035>
+
+**_The race to negative emissions technologies and the centrality of fossil fuel companies_** (joint with G. Tripodi, L. Sabattini, M. Iori)  
+*Business & Society*  
+DOI: <https://doi.org/10.1177/00076503261447805>
+
+**_Safeguarding macro-financial stability under carbon pricing and rapid energy transition_** (joint with L. E. Fierro, S. Reissl, E. Campiglio, L. Drouet, J. Emmerling, E. Kremer, M. Tavoni)  
+*Communications Earth & Environment*  
+DOI: <https://doi.org/10.1038/s43247-026-03209-4>
 
 #### **2025**
 
